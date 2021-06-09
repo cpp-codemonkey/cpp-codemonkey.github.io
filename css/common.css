@@ -1,0 +1,47 @@
+/* CSS Document */
+
+.VKVT-header
+{
+	width: auto;
+}
+
+.left-justified-text
+{
+	text-align: left;	
+}
+
+.center-justified-text
+{
+	text-align: center;
+}
+
+.normal-text
+{
+	font-family: "Arial";
+	font-size: 16pt;
+}
+
+.dark-grey-section
+{
+	background-color: #212121;
+}
+
+.medium-grey-section
+{
+	background-color: #333333;
+}
+
+.white-text
+{
+	color: white;	
+}
+
+.sage-text
+{
+	color: #bada55;
+}
+
+.light-yellow-text
+{
+	color: #fcf3be;
+}

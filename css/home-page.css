@@ -1,0 +1,84 @@
+/* CSS Document */
+
+body
+{
+	text-align: center;
+	margin: 0;
+}
+
+/* portrait section */
+#portraits
+{
+	width: auto;
+	padding: 5% 5% 1%;
+}
+
+#ip-portrait
+{
+	width: 30%;
+}
+
+#vk-portrait
+{
+	width: 27%;
+}
+
+.portrait-text
+{
+	font-family: "Times New Roman";
+	font-size: 2rem;
+	font-style: italic;
+	font-weight: bold;
+	padding-bottom: 5%;
+}
+
+/* highest authority section */
+#highest-authority
+{
+	font-family: "Times New Roman";
+	font-size: 2rem;
+	font-style: italic;
+	font-weight: bold;
+	color: white;
+	padding: 2%;
+}
+
+/* images section */
+#images
+{
+	padding: 1% 10%;
+}
+
+#vk-punch
+{
+	width: 290px;
+}
+
+#april-genoa-2007
+{
+	width: 450px;
+}
+
+#bil-jee-1997
+{
+	width: 450px;
+}
+
+/* the superior system section */
+#the-superior-system-header
+{
+	font-weight: bold;
+	font-style: italic;
+}
+
+#the-superior-system
+{
+	padding: 5% 20%;
+}
+
+#copyright-footer
+{
+	background-color: black;
+	color: white;
+	padding: 5px;
+}
